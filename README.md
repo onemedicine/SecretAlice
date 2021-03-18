@@ -34,6 +34,7 @@ Would each chat need to be deployed as a new contract? If so is it going to be e
 ------
 
 Learn about scrt:
+
 https://scrt.network/developers
 
 https://build.scrt.network/dev/secret-contracts.html
